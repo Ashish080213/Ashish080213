@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ROS**
 
-- 💬 Ask me about **Robotics, ROS**
+- 💬 Ask me about **Robotics and ROS**
 
 - ⚡ Fun fact **🤖The world's fastest robot, the 'Cheetah,' developed by MIT, can sprint at speeds of up to 28.3 miles per hour (45.5 kilometers per hour) – faster than most humans!**
 
